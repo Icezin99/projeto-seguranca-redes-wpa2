@@ -18,6 +18,7 @@ O projeto teve como principal objetivo estudar os mecanismos de segurança e as 
 ## Resultados Principais
 * O ataque de dicionário *offline* demonstrou alta eficácia quando aplicados padrões de credenciais vulneráveis. 
 * A palavra-passe da rede em estudo (`chocolate`) foi recuperada com sucesso em apenas 1 segundo, após testar 5979 chaves candidatas.
+* <img width="617" height="322" alt="key-found" src="https://github.com/user-attachments/assets/a09bc9e9-70f6-454d-b876-9d7f64bac0fc" />
 * O estudo comprovou que, embora o WPA2 utilize cifras robustas como o AES-CCMP, a segurança da rede fica severamente comprometida se o utilizador optar por palavras-passe fracas ou presentes em listas públicas de fugas de informação.
 
 ## Conteúdo do Repositório
