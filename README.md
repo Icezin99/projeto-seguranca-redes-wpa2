@@ -1,4 +1,4 @@
-#Projeto de Segurança em Redes Wi-Fi (WPA2)
+# Projeto de Segurança em Redes Wi-Fi (WPA2)
 
 Projeto prático desenvolvido no âmbito da unidade curricular de Segurança da Licenciatura em Engenharia Informática (Ramo de Redes e Administração de Sistemas) do ISEC.
 
