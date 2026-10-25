@@ -20,7 +20,7 @@ O projeto teve como principal objetivo estudar os mecanismos de segurança e as 
 * A palavra-passe da rede em estudo (`chocolate`) foi recuperada com sucesso em apenas 1 segundo, após testar 5979 chaves candidatas.
   
 <p align="center">
-  <img alt="key-found" src="https://github.com/user-attachments/assets/a09bc9e9-70f6-454d-b876-9d7f64bac0fc" />
+  <img width="546" height="322" alt="key-found" src="https://github.com/user-attachments/assets/34704a1c-2d77-4d73-80e2-5673b7cbee3f" />
 </p>
 
 * O estudo comprovou que, embora o WPA2 utilize cifras robustas como o AES-CCMP, a segurança da rede fica severamente comprometida se o utilizador optar por palavras-passe fracas ou presentes em listas públicas de fugas de informação.
