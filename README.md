@@ -31,4 +31,4 @@ The main objective of this project was to study the security mechanisms and vuln
 ## Repository Contents
 
 - [`report/`](report/) - Complete technical report of the project in PDF format (`.pdf`).
-- [`resources/`](recursos/) - Support files and resources used during the experimental demonstration.
+- [`resources/`](resources/) - Support files and resources used during the experimental demonstration.
